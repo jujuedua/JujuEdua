@@ -2,7 +2,7 @@
 
 👩‍💻Studied Computer Science</br>
 👩‍🎓Graduated in CS50 course</br>
-💭Currently learning difirent languages in programing</br>
+💭Currently learning different languages in programing</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/montmor_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/julia-mont-mor-4a058b337/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@montmor__) 
